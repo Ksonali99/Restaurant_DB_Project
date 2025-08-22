@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Database Analysis
 
-## This project is all about explores and analyzes the restaurant_db dataset to uncover insights about menu items, orders, and customer behavior. This data has been taken from Maven Analytical website.
+## This project is all about explores and analyzes the restaurant_db dataset to uncover insights about menu items, orders, and customer behavior.
 📌 Objectives
 
 The project is divided into three main objectives:
